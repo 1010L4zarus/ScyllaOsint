@@ -8,7 +8,7 @@
 
 
 ## Installation
-1: ```git clone https://github.com/AstraLOL123/ScyllaOsint```<br/>
+1: ```git clone https://github.com/MandConsultingGroup/Scylla```<br/>
 2: ```cd Scylla```<br/>
 3: ```pip install -r requirments.txt```<br/>
 4: ```scylla.py --help```<br/>
